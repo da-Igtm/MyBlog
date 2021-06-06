@@ -1,0 +1,40 @@
+body{
+text-align:center;
+color:purple;
+background-color:linear-gradient(#E1BEE7:0%,#90CAF9:100%);
+background-repeat:no-repeat;
+ }
+
+h1{
+text-shadow:2px 2px #F8BBD0;
+font-size: 20px;
+}
+#bio{
+padding:20px  
+  
+}
+img{
+border-radius:50%;  
+width:100px;  
+}
+.links{
+align-self: center;
+
+float: left;   
+}
+.menu{
+ list-style: none;
+font-family: 'Courgette' cursive;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: black;
+}
+#myname{
+font-family: 'Courgette' , cursive ;
+}
+img.hover{
+    
+    
+}
